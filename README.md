@@ -1,2 +1,2 @@
-# whatsmybias.github.io
-Landing page
+# What's My Bias?
+_Coming soon_
